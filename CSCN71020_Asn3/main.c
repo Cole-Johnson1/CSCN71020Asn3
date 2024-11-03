@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include <string.h>
 
-void testingGit() {
+
+void rockPaperScissors(const char* player1, const char* player2) {
 
 }
