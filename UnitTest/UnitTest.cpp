@@ -1,7 +1,10 @@
 #include "pch.h"
+#include <assert.h>
 #include "CppUnitTest.h"
-#include <string.h>
+
+extern "C" {
 #include "../CSCN71020_Asn3/rockPaperScissors.h"
+}
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
